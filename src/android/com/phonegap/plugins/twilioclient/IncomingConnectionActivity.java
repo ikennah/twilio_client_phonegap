@@ -1,4 +1,4 @@
-package com.phonegap.plugins.mobiletwilio;
+package com.cordova.plugins.mobiletwilio;
 
 import android.app.Activity;
 import android.content.Intent;

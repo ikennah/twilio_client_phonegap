@@ -1,4 +1,4 @@
-package com.phonegap.plugins.mobiletwilio;
+package com.cordova.plugins.mobiletwilio;
 
 import java.util.HashMap;
 import java.util.Iterator;
