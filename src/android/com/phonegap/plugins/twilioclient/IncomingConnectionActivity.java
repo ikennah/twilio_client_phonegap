@@ -1,4 +1,4 @@
-package com.phonegap.plugins.twilioclient;
+package com.phonegap.plugins.twiliomobile;
 
 import android.app.Activity;
 import android.content.Intent;

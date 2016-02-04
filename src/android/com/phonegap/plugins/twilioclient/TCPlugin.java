@@ -1,4 +1,4 @@
-package com.phonegap.plugins.twilioclient;
+package com.phonegap.plugins.twiliomobile;
 
 import java.util.HashMap;
 import java.util.Iterator;
